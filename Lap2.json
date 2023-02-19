@@ -1,0 +1,36 @@
+[{
+
+    "book":"C++",
+    "availability":true,
+
+    "Borrowers":[{"user1":"ali"},{"user2":"Fahad"},{ "user3":"Mohammad"}] 
+
+
+},
+{
+    "book":"java",
+    "availability":false,
+
+    "Borrowers":[{ "user1":"khlid" }, { "user2":"anas" },{ "user3":"amer" }] 
+},
+{
+    "book":"python",
+    "availability":true,
+
+    "Borrowers":[{ "user1":"ahmad" }, { "user2":"Fasal" },{ "user3":"nasser" }] 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
